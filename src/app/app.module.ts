@@ -11,7 +11,7 @@ import {IndexComponent} from "./home/index.component";
 import {HttpModule} from "@angular/http";
 import {FormsModule} from "@angular/forms";
 import {HeroDetailComponent} from "./hero/hero-detail.component";
-import {HeroesComponent} from "./hero/heroes.Component";
+import {HeroesComponent} from "./hero/heroes.component";
 import {HeroService} from "./hero/hero.service";
 
 @NgModule({
